@@ -5,6 +5,7 @@
 
 
 ## Запуск
+Для запуска требуется Python 3 или выше.
 ```bash
 count_function_verbs.py [-d DIR] path
 ```
